@@ -1,4 +1,4 @@
-# Olá, Mundo
- Primeiro repositório do curso de Git e GitHub
+# Iciniando um novo Ciclo
+## Primeiro repositório do desafio de Projetos de Git/GitHub da DIO
 
-Repositório criado na aula de madrugada
+
